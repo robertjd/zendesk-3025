@@ -1,0 +1,17 @@
+{
+  "name": "zendesk-3025",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "basic-auth": "^1.0.1",
+    "express": "^4.12.3",
+    "express-stormpath": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
